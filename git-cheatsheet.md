@@ -23,3 +23,6 @@ Lists existing branches and helps manage branches.
 
 ### git checkout 
 switches between branches or restores files depending on usage.
+
+### git cheatsheet
+git basic Git commands
